@@ -1,30 +1,29 @@
 ---
 layout: cv
-title: John Doe's CV
+title: Chris K CV
 ---
 
-![Harold](./media/21.png){:.avatar}
 
-#John Doe
-Computer Science Student and Technology aficionado
+#chris k
+coding student
 
 <div id="webaddress">
-<a href="mailto:">mymail@mymail.com</a>
+<a href="mailto:">cwkhem1@gmail.com/a>
 |
-<i class="fa fa-github"></i> <a href="http://github.com/">my account</a>
+<i class="fa fa-github"></i> <a href="http://github.com/">https://github.com/ChristopherWK/ChristopherWK.github.io.git</a>
 |
-<i class="fa fa-twitter"></i> <a href="http://twitter.com/">mytwitteraccount</a>
+<i class="fa fa-twitter"></i> <a href="http://twitter.com/">chrisktwitter.com</a>
 </div>
 
 
 ## Currently
 
-I'm a final-year computer science student at the University Computers, due to finish around September 2016. During my bachelor's degree I've taken up an interest in mobile technologies and artificial intelligence.
+student at Soft Stack Factory
 
 ## Education
 
-`2012-15`
-__University of Computers__ Bachelor's degree in Computer Science
+`2008-13`
+__University of California Davis__ Psychology
 
 ## Technical skills
 
@@ -35,30 +34,28 @@ __University of Computers__ Bachelor's degree in Computer Science
 
 ### CV
 
-I created a this web page to show off my CV.  
+I created this web page to show off my CV.  
 
 ## Achievements
+Graduated From the University of California Davis
+Responsible for selling and writing up Hundreds of Thousands of dollars in contracts  of pertaining to Home Improvments.
 
-Achievement 1
 
-Achievement 2
 
 ## Experience
 
 `2010-11`
-__Roasted Bean Coffe House__ 
- Worked for two summers on the Roasted Bean Coffe House as a barista.
+__Donut Star__ 
+ Worked as Cashier and Manager. 
+ __Pacifici Homeowkrs__ 
+ Sales Representative
 
 ## Hobbies
 
-* Hiking
-* Riding 
-* Cooking
+* Sports
+* Learning
+* Coding
 
 ## Links
 
-* <i class="fa fa-envelope"></i> <a href="mailto:">mymail@mymail.com</a><br />
-* <i class="fa fa-github"></i> <a href="http://github.com/">my account</a><br />
-* <i class="fa fa-twitter"></i> <a href="http://twitter.com/">mytwitteraccount</a><br />
-* <i class="fa fa-stack-overflow"></i> <a href="http://stackoverflow.com/">SO Account</a>
-* <i class="fa fa-google"></i> <a href="http://scholar.google.com/">scholar</a>
+
