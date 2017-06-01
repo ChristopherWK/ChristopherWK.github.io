@@ -47,7 +47,7 @@ Responsible for selling and writing up Hundreds of Thousands of dollars in contr
 `2010-11`
 __Donut Star__ 
  Worked as Cashier and Manager. 
- __Pacifici Homeowkrs__ 
+ __Pacificic Homeowkrs__ 
  Sales Representative
 
 ## Hobbies
