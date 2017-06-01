@@ -8,7 +8,7 @@ title: Chris K CV
 coding student
 
 <div id="webaddress">
-<a href="mailto:">cwkhem1@gmail.com/a>
+<a href="mailto:">cwkhem1@gmail.com</a>
 |
 <i class="fa fa-github"></i> <a href="http://github.com/">https://github.com/ChristopherWK/ChristopherWK.github.io.git</a>
 |
@@ -47,7 +47,7 @@ Responsible for selling and writing up Hundreds of Thousands of dollars in contr
 `2010-11`
 __Donut Star__ 
  Worked as Cashier and Manager. 
- __Pacificic Homeowkrs__ 
+ __Pacificic Homeoworks__ 
  Sales Representative
 
 ## Hobbies
